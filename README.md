@@ -1,8 +1,5 @@
-# Turborepo react-native starter
-
-This is a community-maintained example. If you experience a problem, please submit a pull request with a fix. GitHub Issues will be closed.
-
-## Using this example
+# VigilantAids
+the following commands was used to set up the envaroment.
 
 Run the following command:
 
@@ -12,7 +9,7 @@ npx create-turbo@latest -e with-react-native-web
 
 ## What's inside?
 
-This Turborepo includes the following packages/apps:
+This repo is includes the following packages/apps:
 
 ### Apps and Packages
 
@@ -25,7 +22,7 @@ Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
 
 ### Utilities
 
-This Turborepo has some additional tools already setup for you:
+The are some additional tools already being setup :
 
 - [Expo](https://docs.expo.dev/) for native development
 - [TypeScript](https://www.typescriptlang.org/) for static type checking
